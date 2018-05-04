@@ -1,7 +1,11 @@
-Regista conversa dos jogadores sem arquivo de texto dentro da pasta do mapa.
+Registers to geographic locations and the players' public and private dialogs in file log_[date].txt in the map folder.
+
+Depends:
+ * [lib_savelogs](https://github.com/Lunovox/lib_savelogs)
+
 
 Licence: 
- * GNU AGPL: https://pt.wikipedia.org/wiki/GNU_Affero_General_Public_License
+ * [GNU AGPL](https://github.com/Lunovox/lib_savechat/blob/master/LICENSE)
 
 Developers:
- * Lunovox <lunovox@openmailbox.org>
+ * [Lunovox Heavenfinder](https://libreplanet.org/wiki/User:Lunovox)
