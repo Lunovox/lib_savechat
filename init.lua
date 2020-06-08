@@ -52,6 +52,12 @@ end
 
 
 minetest.register_on_chat_message(function(playername, message)
+	--[[
+	minetest.chat_send_player(playername, 
+		"lib_savechat/init.lua:minetest.register_on_chat_message("..dump(playername)..", "..dump(message)..")"
+		, false
+	)
+	--]]
 	if type(message)=="string" and message~="" then
 		local player = minetest.get_player_by_name(playername)
 		if 
