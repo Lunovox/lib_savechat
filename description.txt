@@ -1,11 +1,18 @@
-Registers to geographic locations and the players' public and private dialogs in file log_[date].txt in the map folder.
+Registers to geographic locations and the players' public and private dialogs in file 'log_date.txt' in the 'worlds' folder. 
 
 Depends:
- * [lib_savelogs](https://github.com/Lunovox/lib_savelogs)
 
+ * lib_savelogs : https://github.com/Lunovox/lib_savelogs
 
 Licence: 
- * [GNU AGPL](https://github.com/Lunovox/lib_savechat/blob/master/LICENSE)
+
+ * GNU AGPL : https://github.com/Lunovox/lib_savechat/blob/master/LICENSE
 
 Developers:
- * [Lunovox Heavenfinder](https://libreplanet.org/wiki/User:Lunovox)
+
+ * Lunovox Heavenfinder: 
+   * email : mailto:lunovox@disroot.org
+   * xmpp : xmpp:lunovox@disroot.org?join
+   * social web : http:mastodon.social/@lunovox
+   * audio conference : mumble:libreplanetbr.org
+   * more contacts : https:libreplanet.org/wiki/User:Lunovox
